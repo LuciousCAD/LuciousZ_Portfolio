@@ -109,31 +109,31 @@ export const testimonials = [
     quote:
       "I am very satisfied with the results of the 3D modeling of game characters that have been made by this team. The process was very professional from start to finish. They really understood my vision and managed to translate it into a detailed and characterful 3D model. Every detail, from texture to animation, was meticulously and accurately done.",
     name: "Adi Kurniawan",
-    title: "Director of IwakL3'' (Catfish Farmer)",
+    title: "Director of Central Bank Indonesia",
   },
   {
     quote:
       "I am very satisfied with the results of the 3D modeling of game characters that have been made by this team. The process was very professional from start to finish. They really understood my vision and managed to translate it into a detailed and characterful 3D model. Every detail, from texture to animation, was meticulously and accurately done.",
     name: "Adi Kurniawan",
-    title: "Director of IwakL3'' (Catfish Farmer)",
+    title: "Director of Central Bank Indonesia",
   },
   {
     quote:
       "I am very satisfied with the results of the 3D modeling of game characters that have been made by this team. The process was very professional from start to finish. They really understood my vision and managed to translate it into a detailed and characterful 3D model. Every detail, from texture to animation, was meticulously and accurately done.",
     name: "Adi Kurniawan",
-    title: "Director of IwakL3'' (Catfish Farmer)",
+    title: "Director of Central Bank Indonesia",
   },
   {
     quote:
       "I am very satisfied with the results of the 3D modeling of game characters that have been made by this team. The process was very professional from start to finish. They really understood my vision and managed to translate it into a detailed and characterful 3D model. Every detail, from texture to animation, was meticulously and accurately done.",
     name: "Adi Kurniawan",
-    title: "Director of IwakL3'' (Catfish Farmer)",
+    title: "Director of Central Bank Indonesia",
   },
   {
     quote:
       "I am very satisfied with the results of the 3D modeling of game characters that have been made by this team. The process was very professional from start to finish. They really understood my vision and managed to translate it into a detailed and characterful 3D model. Every detail, from texture to animation, was meticulously and accurately done.",
     name: "Adi Kurniawan",
-    title: "Director of IwakL3'' (Catfish Farmer)",
+    title: "Director of Central Bank Indonesia",
   },
 ];
 
@@ -170,7 +170,7 @@ export const companies = [
   },
 ];
 
-export const workExperience = [
+export const  workExperience = [
   {
     id: 1,
     title: "Simplify Nodes Knowledge",

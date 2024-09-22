@@ -1,5 +1,4 @@
 import React from "react";
-
 import { workExperience } from "@/data";
 import { Button } from "./ui/MovingBorders";
 
@@ -14,22 +13,19 @@ const Experience = () => {
         {workExperience.map((card) => (
           <Button
             key={card.id}
-            //   random duration will be fun , I think , may be not
+            // Random duration for the animation
             duration={Math.floor(Math.random() * 10000) + 10000}
             borderRadius="1.75rem"
             style={{
-              //   add these two
-              //   you can generate the color from here https://cssgradient.io/
               background: "rgb(46, 46, 46)",
               backgroundColor:
                 "linear-gradient(90deg, rgba(46,46,46,1) 0%, rgba(66,66,66,1) 42%, rgba(97,97,97,1) 100%)",
-              // add this border radius to make it more rounded so that the moving border is more realistic
               borderRadius: `calc(1.75rem* 0.96)`,
             }}
-            // remove bg-white dark:bg-slate-900
             className="flex-1 text-black dark:text-white border-neutral-500 dark:border-zinc-600"
           >
-            <div className="flex lg:flex-row flex-col lg:items-center p-3 py-6 md:p-5 lg:p-10 gap-2">
+            {/* Flex container for content, ensuring left alignment */}
+            <div className="flex lg:flex-row flex-col lg:items-start p-3 py-6 md:p-5 lg:p-10 gap-2">
               <img
                 src={card.thumbnail}
                 alt={card.thumbnail}
