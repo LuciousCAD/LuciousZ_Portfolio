@@ -96,10 +96,10 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Modern and Huge Mining Expo Booth",
-    des: "Recreated the Huge Booth Expo, Combining GSAP Look and Nuke 3D Modeling.",
-    img: "/booth.svg",
-    iconLists: ["/blender.svg", "/ortaedro.svg", "/susbtance.svg", "/autocad.svg", "/photoshop.svg"],
+    title: "Horror Game with Unreal Engine",
+    des: "Create a Horror Game using The Unreal Engine 5 Supported with Advanced Graphics.",
+    img: "/HorrorGame.jpeg",
+    iconLists: ["/blender.svg", "/ortaedro.svg", "/susbtance.svg", "/UnrealEngine.svg", "/photoshop.svg"],
     link: "https://www.mining-indonesia.com/",
   },
 ];
@@ -140,9 +140,9 @@ export const testimonials = [
 export const companies = [
   {
     id: 1,
-    name: "Nuke",
-    img: "/nuke.svg",
-    nameImg: "/Nukeft.svg",
+    name: "Unreal Engine",
+    img: "/UnrealEngine.svg",
+    nameImg: "/UnrealEngine5.svg",
   },
   {
     id: 2,
