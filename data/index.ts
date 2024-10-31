@@ -100,7 +100,7 @@ export const projects = [
     des: "Create a Horror Game using The Unreal Engine 5 Supported with Advanced Graphics.",
     img: "/HorrorGame.jpeg",
     iconLists: ["/blender.svg", "/ortaedro.svg", "/susbtance.svg", "/UnrealEngine.svg", "/photoshop.svg"],
-    link: "https://www.mining-indonesia.com/",
+    link: "https://itch.io/",
   },
 ];
 
